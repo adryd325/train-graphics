@@ -7,10 +7,11 @@
    xml:space="preserve"
    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5"
    id="svg1584"
-   sodipodi:docname="t1.svg"
+   sodipodi:docname="bombardier_toronto_tr.svg"
    inkscape:export-filename="../../../../../home/adryd/Documents/tr.png"
    inkscape:export-xdpi="3072"
    inkscape:export-ydpi="3072"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +25,24 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   showgrid="false"><inkscape:grid
+   showgrid="false"
+   inkscape:zoom="26.373513"
+   inkscape:cx="20.854256"
+   inkscape:cy="19.223832"
+   inkscape:window-width="1920"
+   inkscape:window-height="1012"
+   inkscape:window-x="0"
+   inkscape:window-y="32"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g1582"><inkscape:grid
      type="xygrid"
-     id="grid2657" /></sodipodi:namedview>
+     id="grid2657"
+     originx="0"
+     originy="0"
+     spacingy="1"
+     spacingx="1"
+     units="px"
+     visible="false" /></sodipodi:namedview>
 
 
     <g
@@ -60,7 +76,7 @@
    id="path1578"
    sodipodi:nodetypes="ccccccccc" /><path
    d="M 26,9 C 26,8 24,6 22,6 H 16 10 C 8,6 6,8 6,9 v 6 c 0,0 0,4 10,4 10,0 10,-4 10,-4 z"
-   style="clip-rule:evenodd;display:inline;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5"
+   style="clip-rule:evenodd;display:inline;fill:#292929;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5"
    id="path1524"
    sodipodi:nodetypes="czszcczcc"
    transform="translate(0,-1)" /><rect
@@ -83,12 +99,12 @@
    id="path1546"
    transform="translate(0,-2)" /><path
    id="path18221"
-   style="clip-rule:evenodd;display:inline;fill:#262626;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5"
+   style="clip-rule:evenodd;display:inline;fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5"
    d="m 14,10 c -0.549999,0 -0.997,0.445141 -1,0.994141 V 11 18.857422 C 13.885338,18.947084 14.876317,19 16,19 c 1.123683,0 2.114662,-0.05292 3,-0.142578 V 11 10.994141 C 18.997,10.445141 18.549999,10 18,10 Z"
    transform="translate(0,-1)" /><path
    d="M 14.994,18 C 14.445,17.997 14,17.55 14,17 v -4 c 0,-0.552 0.448,-1 1,-1 h 2 c 0.552,0 1,0.448 1,1 v 4 c 0,0.55 -0.445,0.997 -0.994,1 H 17 15 Z"
    id="path1566"
-   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5;fill:#000000;fill-opacity:1"
    transform="translate(0,-2)" /><path
    d="m 12,24 h -2 v 2.5 c 0,0.133 0.053,0.26 0.146,0.354 C 10.24,26.947 10.367,27 10.5,27 h 1 c 0.133,0 0.26,-0.053 0.354,-0.146 C 11.947,26.76 12,26.633 12,26.5 Z"
    style="clip-rule:evenodd;fill:#262626;fill-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5"
