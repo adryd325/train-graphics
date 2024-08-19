@@ -1,0 +1,16 @@
+bart.svg: adryd
+bombardier_toronto_bilevel_coach.svg: adryd
+bombardier_toronto_t1.svg: adryd
+bombardier_toronto_tr.svg: adryd
+derailed_mbta_red_line.svg: adryd
+frecciarossa_etr1000.svg: enrico (leone25)
+frecciarossa_etr500.svg: enrico (leone25)
+mbta_blue_line.svg: adryd
+mbta_green_line.svg: adryd
+mbta_orange_line.svg: adryd
+mbta_red_line.svg: adryd
+montreal_rem.svg: adryd
+ns_virm.svg: adryd, touchups by enrico (leone25)
+nyc_r211.svg: adryd
+peter_witt_rochester_car_60.svg: adryd
+peter_witt_rochester_forgor.svg: adryd
